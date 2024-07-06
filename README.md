@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prinzessinrudolf&label=Profile%20views&color=0e75b6&style=flat" alt="prinzessinrudolf" /> </p>
 
-- 🔭 I’m currently working on **-**
-
 - 🌱 I’m currently learning **C#, Sparkle, Raylib-CSharp**
 
 - 💬 Ask me about **Sparkle**
